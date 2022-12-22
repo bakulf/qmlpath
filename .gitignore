@@ -1,0 +1,10 @@
+.clang-format
+.qmake.stash
+Makefile
+apply-format
+git-pre-commit-format
+.moc
+.obj
+.rcc
+*.swp
+tests/tests
